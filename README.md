@@ -6,4 +6,5 @@ Screenshot Project Alignment
 
 Screenshot Project TipCalculator
 
-![image](https://user-images.githubusercontent.com/90663373/219053835-a50d1d20-3081-4706-851d-6e12f1ceaf80.png)
+![image](https://user-images.githubusercontent.com/90663373/219053956-ef4eb6a9-964e-40f3-a1b8-ba614378250c.png)
+
